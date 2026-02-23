@@ -14,8 +14,7 @@
   - Focused on real-world, high-impact applications
 
   ### Open Source
-  - Active project: [Eventinel Mobile](https://github.com/EmmanuelAlmonte/Eventinel-
-  mobile)
+  - Active project: [Eventinel Mobile](https://github.com/EmmanuelAlmonte/Eventinel-mobile)
   - Project namespace: [eventinel](https://github.com/eventinel)
 
   ### Connect
