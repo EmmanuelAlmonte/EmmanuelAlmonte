@@ -10,7 +10,6 @@
 
   ### Background
   - 5+ years of software engineering experience
-  - 3 years at Chubb Insurance as a full stack software engineer
   - Focused on real-world, high-impact applications
 
   ### Open Source
