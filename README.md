@@ -1,24 +1,25 @@
- # Hi, I'm Emmanuel Almonte
+  # Emmanuel Almonte
 
-  I'm a full stack software engineer focused on mobile-first, open-source products.
+  Full stack software engineer building mobile-first, open-source products.
 
-  ## Current Focus
+  ### Current Focus
   - Building [Eventinel Mobile](https://github.com/EmmanuelAlmonte/Eventinel-mobile)
-  - Nostr-native public safety workflows (alerts, live activities, and community
+  - Nostr-native public safety workflows (alerts, live activities, community
   reporting)
   - React Native, Expo, TypeScript, Nostr/NDK, and Mapbox
 
-  ## About Me
+  ### Background
   - 5+ years of software engineering experience
-  - Interested in building real-world, high-impact applications
+  - 3 years at Chubb Insurance as a full stack software engineer
+  - Focused on real-world, high-impact applications
 
-  ## Open Source
+  ### Open Source
   - Active project: [Eventinel Mobile](https://github.com/EmmanuelAlmonte/Eventinel-
   mobile)
-  - Also managing project namespace: [eventinel](https://github.com/eventinel)
+  - Project namespace: [eventinel](https://github.com/eventinel)
 
-  ## Connect
-  - Website: [eventinel.com](https://eventinel.com)
+  ### Connect
+  - Website: [emmanuelalmonte.com](http://emmanuelalmonte.com/)
   - LinkedIn: [emmanuel-almonte](https://www.linkedin.com/in/emmanuel-almonte-
   6b066b189/)
   - Nostr: `npub1yssrs0k5rh83s0xhq5smxajtlw6nk4quf4czzp67kmd8aaduvveq03gwn9`
