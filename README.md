@@ -1,4 +1,4 @@
-  # Emmanuel Almonte
+# Emmanuel Almonte
 
   Full stack software engineer building mobile-first, open-source products.
 
