@@ -3,7 +3,7 @@
   Full stack software engineer building mobile-first, open-source products.
 
   ### Current Focus
-  - Building [Eventinel Mobile](https://github.com/EmmanuelAlmonte/Eventinel-mobile)
+  - Building [Eventinel](https://github.com/EmmanuelAlmonte/Eventinel)
   - Nostr-native public safety workflows (alerts, live activities, community
   reporting)
   - React Native, Expo, TypeScript, Nostr/NDK, and Mapbox
@@ -13,7 +13,7 @@
   - Focused on real-world, high-impact applications
 
   ### Open Source
-  - Active project: [Eventinel Mobile](https://github.com/EmmanuelAlmonte/Eventinel-mobile)
+  - Active project: [Eventinel](https://github.com/EmmanuelAlmonte/Eventinel)
   - Project namespace: [eventinel](https://github.com/eventinel)
 
   ### Connect
