@@ -19,6 +19,5 @@
   ### Connect
   - Website: [emmanuelalmonte.com](http://emmanuelalmonte.com)
   - LinkedIn: [emmanuel-almonte](https://www.linkedin.com/in/emmanuel-almonte-6b066b189/)
-  - Nostr: `npub1yssrs0k5rh83s0xhq5smxajtlw6nk4quf4czzp67kmd8aaduvveq03gwn9`
   - X/Twitter: [@eventinel](https://x.com/eventinel)
   - Email: `eventsentinel@gmail.com`
