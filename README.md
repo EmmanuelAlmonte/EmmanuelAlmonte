@@ -17,7 +17,6 @@
   - Project namespace: [eventinel](https://github.com/eventinel)
 
   ### Connect
-  - Website: [emmanuelalmonte.com](http://emmanuelalmonte.com)
   - LinkedIn: [emmanuel-almonte](https://www.linkedin.com/in/emmanuel-almonte-6b066b189/)
   - X/Twitter: [@eventinel](https://x.com/eventinel)
   - Email: `eventsentinel@gmail.com`
