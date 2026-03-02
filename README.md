@@ -1,6 +1,6 @@
 # Emmanuel Almonte
 
-  Full stack software engineer building mobile-first, open-source products.
+  Full stack software engineer building open-source products.
 
   ### Current Focus
   - Building [Eventinel](https://github.com/EmmanuelAlmonte/Eventinel)
